@@ -1,0 +1,2 @@
+1) The time complexity for the following code will be O(N+M) because the first loop is runing uptill n times and the second loop is is runing for m times. The space complexity will be O(1) as there is no additional space utilized.
+2)It would be B(X will be a better choice for all inputs except possibly small inputs) as in asymptotic analysis we consider growth of algorithm in terms of input size.
